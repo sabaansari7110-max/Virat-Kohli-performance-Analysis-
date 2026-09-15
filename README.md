@@ -30,7 +30,12 @@ This project analyzes Virat Kohli's batting performance across 516 international
 ## 🛠️ Tools & Tech
 - **Excel** — Pivot Tables for data summarization (runs by country, format, ground)
 - **[Power BI ]** — interactive dashboard
+
+## Excel Table
 <img width="872" height="623" alt="Screenshot Table" src="https://github.com/user-attachments/assets/0335f5b3-c38a-486b-8d19-a1f22f0c7e63" />
+
+## Pivot Table 
+<img width="937" height="580" alt="image" src="https://github.com/user-attachments/assets/8d061848-5541-4bdb-a578-6c036272101a" />
 
 ## 📈 Dashboard Highlights
 - ODI is his highest run-scoring format (12,327 runs / 52% of career runs)
@@ -40,6 +45,6 @@ This project analyzes Virat Kohli's batting performance across 516 international
 ## Preview
 <img width="3648" height="1948" alt="Virat Kohli Performance dashboard" src="https://github.com/user-attachments/assets/cd6405f4-2d34-44d4-91c6-d12a16fad050" />
 
-
-## Pivot Table 
-<img width="937" height="580" alt="image" src="https://github.com/user-attachments/assets/8d061848-5541-4bdb-a578-6c036272101a" />
+# Author 
+Saba Ansari / https://github.com/sabaansari7110-max
+sabaansari7110@gmail.com
