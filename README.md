@@ -12,10 +12,10 @@ This project analyzes Virat Kohli's batting performance across 516 international
 - Visualize career trends through an interactive dashboard
 
 ## Dataset
-- **Source:** [add your source — e.g., Kaggle / ESPN Cricinfo]
 - **Total Matches:** 516
 - **Total Runs:** 23,709
 - **Fields:** Ground, opposition, format, runs, match count, date, etc.
+- **Format:** Excel (.xlsx), cleaned and structured for pivot analysis 
 
 ### Key Stats
 | Format | Runs   |
@@ -27,7 +27,7 @@ This project analyzes Virat Kohli's batting performance across 516 international
 
 **Top run-scoring oppositions:** Australia (4,483 runs, 95 matches), West Indies (3,653), Sri Lanka (3,644), England (3,903)
 
-## 🛠️ Tools & Tech
+##  Tools & Tech
 - **Excel** — Pivot Tables for data summarization (runs by country, format, ground)
 - **[Power BI ]** — interactive dashboard
 
@@ -37,9 +37,11 @@ This project analyzes Virat Kohli's batting performance across 516 international
 ## Pivot Table 
 <img width="937" height="580" alt="image" src="https://github.com/user-attachments/assets/8d061848-5541-4bdb-a578-6c036272101a" />
 
-## 📈 Dashboard Highlights
+##  Dashboard Highlights
 - ODI is his highest run-scoring format (12,327 runs / 52% of career runs)
+- Test cricket contributes 8,074 runs(34%), with T20I at 3,308 run (14%)
 - Strongest performances against Australia and England
+- Minimal but perfect record vs Netherlands (12 runs) and Scotland (2 runs) - reflects limited associtae-nation Fixtures rather than poor form
 
 
 ## Preview
