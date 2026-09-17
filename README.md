@@ -31,10 +31,10 @@ This project analyzes Virat Kohli's batting performance across 516 international
 - **Excel** — Pivot Tables for data summarization (runs by country, format, ground)
 - **[Power BI ]** — interactive dashboard
 
-## Excel Table
+## Spreadsheet Preview
 <img width="872" height="623" alt="Screenshot Table" src="https://github.com/user-attachments/assets/0335f5b3-c38a-486b-8d19-a1f22f0c7e63" />
 
-## Pivot Table 
+## Pivot Table Preview 
 <img width="937" height="580" alt="image" src="https://github.com/user-attachments/assets/8d061848-5541-4bdb-a578-6c036272101a" />
 
 ##  Dashboard Highlights
